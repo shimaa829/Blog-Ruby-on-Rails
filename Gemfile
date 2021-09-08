@@ -8,7 +8,7 @@ gem 'rails', '~> 6.0.2', '>= 6.0.2.2'
 # Use mysql as the database for Active Record
 gem 'mysql2', '>= 0.4.4' , require: true
 
-gem 'better_errors', '~> 2.6'
+gem 'better_errors', '~> 2.8'
 
 gem 'bulma-rails', '~> 0.8.0'
 
